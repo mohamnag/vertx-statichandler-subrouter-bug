@@ -1,0 +1,5 @@
+= Reproducer for StaticHandler and Subrouter combination bug
+
+1. run
+1. access `/test/` in browser
+1. expect to get the `/test/index.html` or be redirected to `/test/index.html`
